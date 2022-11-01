@@ -1,0 +1,3 @@
+C:/Users/rohit/Desktop/Assignments/21Sept21SKS/cmake-build-debug/CMakeFiles/21Sept21SKS.dir
+C:/Users/rohit/Desktop/Assignments/21Sept21SKS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rohit/Desktop/Assignments/21Sept21SKS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

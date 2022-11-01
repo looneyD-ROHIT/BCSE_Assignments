@@ -1,0 +1,25 @@
+	   LXI H,2200
+	   MOV B,M
+	   LXI H,2202
+	   MOV A,M
+	   ADD B
+	   STA 2500
+	   MVI A,00
+	   ADC A
+	   MOV C,A
+	   LXI H,2201
+	   MOV B,M
+	   LXI H,2203
+	   MOV A,M
+	   ADD B
+	   MOV D,A
+	   MVI A,00
+	   ADC A
+	   MOV B,A
+	   MOV A,D
+	   ADD C
+	   STA 2501
+	   MVI A,00
+	   ADC B
+	   STA 2502
+	   HLT

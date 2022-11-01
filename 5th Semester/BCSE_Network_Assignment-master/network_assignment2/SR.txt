@@ -1,0 +1,9 @@
+
+sender3 is sending data to receiver3--------------------
+Total packet sent = 7
+Effective packet sent = 3
+Total time taken = 0.080785 minutes
+Receiver Throughput =    356 bps
+Utilization percentage =   8.91 %
+Average Successful Transmission time of a packet = 1.615704 seconds/packet
+

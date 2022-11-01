@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
+#include <string.h>
+#include <math.h>
+#include <time.h>
+#include "struct.h"
+#include "prototype.h"
+#include "make.h"
+#include "add.h"
+#include "edit.h"
+#include "search.h"
+#include "delete.h"
+#include "display.h"

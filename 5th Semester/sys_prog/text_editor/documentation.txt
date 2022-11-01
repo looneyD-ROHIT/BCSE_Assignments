@@ -1,0 +1,12 @@
+To run the text editor open the terminal in the current folder, make sure
+you have python3 installed and run the command - "python notepad.py".
+
+
+After running the command if you face any errors like no module then install
+the required dependencies as shown in the error description.
+
+After all these are done, your file should run fine and a gui notepad window
+will be displayed and you can access the features through the various options.
+
+The basic features implemented are - open, save, create new file, save as, undo/redo, font color, bold/italic etc.
+
